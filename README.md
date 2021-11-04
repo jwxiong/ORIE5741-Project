@@ -1,4 +1,4 @@
-# ORIE 5741 Project
+# ORIE 5741 Project 
 
 Stock Prediction Using Foundamentals
 
